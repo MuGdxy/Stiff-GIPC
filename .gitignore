@@ -9,3 +9,4 @@ GPU_IPC/mLBVH/*.mp4
 GPU_IPC/mLBVH/triMesh/body*
 build*
 Output/*
+.vscode/
